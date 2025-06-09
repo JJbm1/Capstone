@@ -7,12 +7,13 @@
 ---
 
 ## 📁 프로젝트 구성
+```
 Capstone/
 ├── flutter/ # Flutter 프론트엔드 (앱 UI)
 ├── spring/ # Spring 백엔드 (API 서버)
 ├── Database/ # 데이터베이스 CSV 및 SQL 자료, 벡터DB
 └── capstone_robot/ # 라즈베리파이 음성 제어 코드
-
+```
 ---
 
 ##  주요 기능
