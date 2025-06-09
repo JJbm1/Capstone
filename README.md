@@ -67,6 +67,12 @@ Capstone/
 
 ---
 
+##  시연 영상
+
+- [ Google Drive 시연 영상 보기](https://drive.google.com/drive/folders/1-izkUQsDigxz1Iu3l29-GDDgBEo6sWWg?usp=sharing)
+
+---
+
 ## 🔐 민감 정보 관리
 
 - 모든 API 키, Firebase 키 등은 `.gitignore`에 포함되어 있으며  
