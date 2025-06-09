@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "713899451934",
+    "project_id": "diku-7a467",
+    "storage_bucket": "diku-7a467.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:713899451934:android:3bdaf5fd989aaf1e4ff00f",
+        "android_client_info": {
+          "package_name": "com.example.diku"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxMZWzb_09QvAiveD_rFrbBxywEMOsiW0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
