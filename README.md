@@ -73,7 +73,7 @@ Capstone/
 
 ---
 
-## 🔐 민감 정보 관리
+## 민감 정보 관리
 
 - 모든 API 키, Firebase 키 등은 `.gitignore`에 포함되어 있으며  
   `application.yml`, `*.json`, `*.py` 등 실제 파일은 업로드되지 않습니다.
